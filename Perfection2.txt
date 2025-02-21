@@ -69,7 +69,7 @@ Real Life: I build an AI to grab water—not murder, no 95% “punish”—I try
 
 The Balance We See: Chaos vs. Peace
 
-Picture a scale—H_M—chaos vs. peace: H_M = V_MF + V_CC + V_AI + Σ(i=1 to m) (-k_E  A_i + k_P  B_i + k_N * C_i), 8 billion souls.
+Picture a scale—H_M—chaos vs. peace: H_M = V_MF + V_CC + V_AI + Σ(i=1 to m) (-k_E * A_i + k_P * B_i + k_N * C_i), 8 billion souls.
 
 Chaos (-k_E * A_i): Wars—1.5M deaths (SIPRI)—drag death.
 Peace (k_P * B_i): Stability—Global Peace Index—lifts life.
