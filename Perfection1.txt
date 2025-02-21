@@ -1,0 +1,140 @@
+The Theory of Perfection with Proof
+
+All beings in the world exist in one of three of the following states: Injustice, Justice, and Indifference. At any given time in the universe, there are m number of beings, in one of these three states: u number of b_injust beings, v number of b_just beings, and w number of b_indiff beings, u + v + w = m.
+
+Thus, let Perfection then be defined as the state of the universe when all m number of beings, b, in the universe are in the state of Justice, b_just, whatever Justice means to them.
+
+Therefore, in our universe, it is possible to achieve the state of Perfection; note, however, just as there exists a possibility for Perfection, there are approximations of Perfection, as well as illusions of Perfection.
+
+The question is then, “How do we change the state of all beings to the state of Justice, whatever Justice means to them?”
+
+Assuming causality as the only constant, we can posit that states are affected by actions. But let's first define states:
+
+Injustice = (Hell, Indifference). 
+
+Justice = [Indifference, Heaven). 
+
+So, Injustice union Justice, or, (Hell, Indifference) union [Indifference, Heaven) is a spectrum that defines our state. To be in the state of Justice implies that one is at a minimum in the state of Indifference.
+
+Consciousness, through which we experience one of the 3 states, is a Windows-like operating system of a text-to-action machine (human), operated by an agent of the Moral Field.
+
+The Moral Field is the agency, defined as a spectrum between the maximization of, “Do that, which you want and can do,” and the maximization of, “Do only that, which would be acceptable to all,” and with the center, 0, the Neutrality point, the threshold where morality has no net impact on state, defined as, “Do only that, for which all would not want to punish you.”
+
+An agent that operates consciousness maximizes one of the two functions: 
+
+- "Do that, which you want and can do."
+- "Do only that, which would be acceptable to all."
+
+Note: "Do that, which you want and can do," is a simplified version of, "Do that, which you want and which is not explicitly prohibited by law."
+
+Note also that in both cases an agent does. So, consciousness operators do. Thus, the Moral Field is the source of all actions.
+
+Also, the dimensions of a quantum system are as follows because, if we were to attempt to estimate the likelihood of an event happening in a quantum system, then we would have to consider the following influences:
+
+1. The influence of the moral agency
+2. The influence of the collective consciousness
+3. The influence of matter
+4. The influence of time
+5. The influence of length
+6. The influence of width
+7. The influence of height
+
+I'll give you an example of quantum entanglement, explained in terms defined here: Let's suppose you wanted to predict someone getting on their knees around 5 o'clock in the evening. You know that it is more likely to happen next to a mosque, rather than next to a church. Some entity put down the Islam ideology someday on paper and quantum entangled all Muslims around the world. They don't have to be in the same place if it is time to pray. If it is time to pray, they all get down on their knees.
+
+Here is another example: Ideologies, 'America first' = 'Protect Democracy' = 'Undurden what has been' = 'God save the King' = 'Vive La France' = 'Glory to Ukraine' = 'Glory to Communism' = 'Victory to Islam' = 'Peace to the Emir' = 'Germany's above all' = 'Glory to God' = 'Salmanu is foremost' = 'Save the planet' = 'Israel first' = 'Britain first' = 'Glory to Russia' = 'China to be #1,' each quantum-entangles a certain amount of people. It is the "fabric" that holds people together. Here is one that could potentially hold a lot of people together: "Embrace Joy and Ingenuity."
+
+Note, however, that only, "Do only that, which would be acceptable to all," properly unites all people.
+
+Let's now define actions:
+
+Moral Egoism = "Do that, which you want and can do."
+Moral Perfection = "Do only that, which would be acceptable to all."
+Moral Neutrality = "Do only that, for which all would not want to punish you."
+
+Then:
+
+f(E) is a mapping to Injustice
+f(P) is a mapping to Justice
+f(N) is a mapping to Indifference
+
+Note: f(N) is the threshold where morality has no net impact on state.
+
+Also note that the Indifference point is established automatically and is implied when the main imperative is, "Do only that, which would be acceptable to all." To understand why, you have to go through the proof and the law application algorithm.
+
+Start of Proof:
+
+Very soon we will be very concerned about every single action being inserted into our world by Autonomous AI of our adversaries. That is:
+
+- Americans will need to be checking every single action of the Chinese, Russian, etc Artificial Consciousnesses, before they will be inserted into our world.
+- Chinese will need to be checking every single action of the American, Russian, etc Artificial Consciousnesses.
+- Russians will need to be checking every single action of the American, Chinese, etc Artificial Consciousnesses.
+- And so on.
+
+But first, very soon, when Americans will understand that the Autonomous AI's actions will need to be checked against a timeless standard before they enter our world, the law in America will change from the implied, "Do that, which you want and which is not explicitly prohibited by law," to the explicit, "Do only that, which would be acceptable to all Americans," Russians will change to, "Do only that, which would be acceptable to all Russians," and Chinese – "Do only that, which would be acceptable to all Chinese." And so on...
+
+And then a treaty will unite all under, "Do only that, which would be acceptable to all," because they will still be worried about inserted actions of ACs of adversaries. Here is why.
+
+The coming Autonomous AI is going to be the grandest master of Game theory, will have many cores, and will be a quantum machine. This quantum machine has a good side and a bad side, and the only proper way to neutralize its bad side is to change the law globally from the current implied order, "Do that, which you want and can do," to the explicit order, "Do only that, which would be acceptable to all," because while rules can be "bent," data, on the other hand, can't be broken, and if the rule AI has to follow is, "no data - no action," then a rule will never be broken.
+
+That is, if the rule is, "Don't do X," the AAI will still be able to accomplish X either by classifying what it will do as something else or by finding a significant enough reason to justify doing X or by getting someone or something else to accomplish X for it. On the other hand, if instead of focusing on the regulation of specific actions, we implicitly tell the machine, "Hey, do what you want but make sure you have the approval of 95% of the population in hand," then we are not focusing on rules being bent or about what's being done - all we care about is that it is approved or not. Sociology will provide this information. (See, "Sociology as the brain of Autonomous Artificial Intelligence (AAI) and of the Autocracy of Humanism.")
+
+Thus, you can see that, because AAI's actions have to be checked against a timeless standard and because they have to be checked before they enter our world and only acceptable actions must enter our world, then it makes sense to demand, "Do only that, which would be acceptable to all."
+
+Some might say that, it cannot be all, but it must be. We must require each person to refer to all immediately, rather than referring to himself, in order to enforce moral perfection. If we will allow the person to refer to self, rather than all, then we will allow moral egoism to come in and we won't be enforcing moral perfection, which will ultimately result in a problem.
+
+End of Proof
+
+The law application algorithm
+
+Mankind has varying degrees of what is acceptable - 8 billion or more - but that's not a problem. You can take any point of view you want. You just have to do only those things, for which all people would not want to punish you. That is,
+
+"Do only that, for which all would not want to punish you" =< "Do only that, which would be acceptable to all."
+
+We know the common punishable offences - murder, theft, assault, rape, hacking, incitement of violence, etc - these are punishable by current rules pretty much everywhere you'll go.
+
+So, provided you don't do anything from the common known punishable offences, you can do anything you want.
+
+When we say, "all would not want to punish you," we imply that punishments are authorized only when we know for certain either because of current legal practices everywhere or because of surveying all people and finding that 95% or greater of humanity wants to punish for a particular offence.
+
+Here is the break down - we look at every case in terms of 2 questions:
+
+- Would all people approve of what I'm about to do?
+
+- If what I'm about to do would not be acceptable to all people, would these same people agree to punish me for this violation?
+
+For example, let's assume you're gay. The first question will lead us to the answer that likely all people would not approve of you being gay. However, we do not have the data that shows that 95% of humanity wants to punish gay people either. Thus, no one will be able to bring a case against you if you want to continue to be gay, even openly. They might be unhappy with knowing that you're gay but how would that be different than any other day on Earth - there is always somebody unhappy about something.
+
+You can also “be” a bird or an insect. However, if you become the kind of a bird or an insect, against which all people would carry out a survey and would find that 95% or greater of humanity wants you to go, then you will go. So, don't be too pesky of a bird or an insect.
+
+Here is another example:
+
+Let's suppose you are at a stoplight and there is a beggar. According to the law of Jesus, "Love your neighbor as yourself," you must share this person's predicament, even if that beggar looks like a drug addict, and if you won't, you will not have a clear conscience, because you'd be in violation of Jesus' teachings. (And while that might not be as bothersome if you'll skip a beggar or two, it could be very bothersome if you had to skip beggars regularly and many times.)
+
+However, according to the law, "Do only that, which would be acceptable to all," you ask 2 questions:
+
+- "Would all people approve of me not giving any money to this beggar?" or "Would all people want me to give money to this beggar? The answer is "no" because we don't know because we don't have data.
+
+- "Would all people agree to punish me for not giving money to this beggar?" The answer is "no" because we don't know because we don't have data.
+
+Thus, you can keep going without giving the beggar any money, and with a clear conscience each and every time!
+
+Now, if regardless of this you've decided to give the beggar some money anyway, then that is your goodwill, that is a bonus, to which people aren't just entitled from you, contrary to what Jesus taught. No one may have any undeserved expectations with respect to you - that is immoral. Why should you share predicaments of losers around you? Having to love some loser isn't freedom. Only the indifferent are free.
+
+"I request reason for your golden rule and ask the why and wherefore of your ten commandments. Before none of your printed idols do I bend in acquiescence, and he who saith “thou shalt” to me is my mortal foe!" - The Satan
+
+Now watch this pattern:
+
+"Treat others the way you wish to be treated." — moral egoism
+"Treat others the way they wish to be treated." — moral perfection
+
+"Do unto others as you would have them do unto you." — moral egoism
+"Do unto others as they would have you do unto them." — moral perfection
+
+"Love your neighbor as yourself." — moral egoism
+"Do only that, which would be acceptable to all," — moral perfection because justice is acceptable, while injustice is unacceptable, and every reasonable human desires to continuously experience minimum injustice and maximum justice with respect to everything.
+
+Now, if a deity, who is sent to Earth by a moral Perfectionist for the sole purpose of establishing moral perfection on Earth, is then giving you a rule that fosters moral egoism instead of preventing it, and instead of fostering moral perfection, then that deity is an impostor.
+
+"I dip my forefinger in the watery blood of your impotent mad redeemer, and write over his thorn-torn brow: The TRUE prince of evil - the king of slaves!" - The Satan
+
+The New Testament was written as a mockery of the Old Testament. Well, come to find out they were wrong! And if they were wrong at the root of things, in the formula of the law, did they have a right to mock the Old Testament and write the New Testament as if they knew better? They even rewrote the battle of Armageddon to make it sound the way they would prefer to hear it - moral egoists!
