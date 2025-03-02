@@ -1,6 +1,5 @@
-BreakFrame.pdf
-File
-1.9 MB
+Part 2
+
 Attached was my conversation with Grok but it had to come to an end due to context window limitation. I heard Gemini's context window is a lot larger and I thought that I might be able to revide an otherwise dead conversation. So, can you tell me what does the architecture of a machine comprise of if this machine has a chip that knows how to classify actions from the POV of the Theory of Perfection. What other components must be in play here?
 
 profile
