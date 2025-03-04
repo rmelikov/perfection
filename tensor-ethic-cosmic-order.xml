@@ -180,9 +180,9 @@
         <Heading>Download this post (to share with your AI) as:</Heading>
         <Content>
             <List type="unordered">
-                <Item><Bold>Text</Bold>
+                <Item><Bold>Text:</Bold>
                     <Reference type="external" href="https://github.com/rmelikov/perfection/blob/main/tensor-ethic-cosmic-order.txt">https://github.com/rmelikov/perfection/blob/main/tensor-ethic-cosmic-order.txt</Reference></Item>
-                <Item><Bold>XML</Bold>
+                <Item><Bold>XML:</Bold>
                     <Reference type="external" href="https://github.com/rmelikov/perfection/blob/main/tensor-ethic-cosmic-order.xml">https://github.com/rmelikov/perfection/blob/main/tensor-ethic-cosmic-order.xml</Reference></Item>
             </List>
         </Content>
